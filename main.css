@@ -1,0 +1,38 @@
+.names {
+  font-size: 1.3em;
+}
+
+.icon {
+  max-height: 50px;
+  border-radius: 50%;
+}
+.container-fluid {
+  width: 80%;
+  margin: 50px auto;
+  background-color: black;
+  color: white;
+
+  text-align: center;
+}
+a,
+a:visited,
+a:active,
+a:hover {
+  color: white;
+}
+
+h1 {
+  font-family: impact;
+
+  margin-bottom: 30px;
+}
+.online {
+  background-color: purple;
+}
+.offline {
+  background-color: gray;
+}
+.eleme {
+  padding: 10px;
+  border: solid 1px;
+}
